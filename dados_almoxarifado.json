@@ -1,0 +1,18 @@
+{
+    "estoque": {
+        "Parafusos e Fixadores": {
+            "parafuso": 100,
+            "prego": 150,
+            "gancho": 50
+        },
+        "Ferramentas": {
+            "martelo": 10,
+            "chave de fenda": 15
+        },
+        "EPIs": {
+            "capacete": 20,
+            "luva": 40
+        }
+    },
+    "historico": []
+}
